@@ -1,0 +1,108 @@
+Site Rebuild
+sugarbakerycafe.com/cakes/
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Cakes |</title>
+	</head>
+	<body>
+		<header>
+			<p>search</p>
+		</header>
+		<aside>
+			<p>SUGAR BAKERY & CAFE</p>
+			<nav>
+				<ul>
+					<li>CAKES</li>
+					<li>LUNCH</li>
+					<li>CATERING</li>
+					<li>NEWS</li>
+					<li>ABOUT</li>
+					<li>CONTACT</li>
+					<li>GIVING BACK</li>
+				</ul>
+			</nav>
+			<footer>
+				<p>All rights reserved © 2014 Sugar Bakery & Cafe</p>
+			</footer>
+		</aside>	
+		<main>
+			<aside>searchbar</aside>
+			<aside>
+				<h1>SUGAR BAKERY & CAFE</h1>
+				<p>1014 Madison Street (206) 749-4105 </br>M-F 7am-6pm Sa 9am-1pm
+				</p>
+			</aside>
+			<section>
+				<h1>CAKES</h1>
+					<p>by Sugar Bakery, July 2, 2014</p>
+					</br>
+					<p>text</p>
+						<ul>
+							<li>$29.50/small (serves 6-8)</li>
+							<li>$39.50/medium (serves 10-14)</li>
+							<li>$68.50/quarter sheet (serves 25-30)</li>
+							<li>$110/half sheet (serves 40-50)</li>
+						</ul>
+					<p>order now</p>
+					<img>
+					<article>
+	         	<h1>Black Forest</h1>
+	           	<p>Description, picture</p>
+	       	</article>
+	       	<article>
+	         	<h1>Chocolate and Vanilla</h1>
+	           	<p>Description, picture</p>
+	       	</article>
+	       	<article>
+	         	<h1>German Chocolate</h1>
+	           	<p>Description, picture</p>
+	       	</article>
+	       	<article>
+	         	<h1>Chocolate Salted Caramel</h1>
+	           	<p>Description, picture</p>
+	       	</article>
+	       	<article>
+	         	<h1>Red Velvet</h1>
+	           	<p>Description, picture</p>
+	       	</article>
+	       	<article>
+	         	<h1>Flourless Chocolate Cake</h1>
+	           	<p>Description, picture</p>
+	       	</article>
+	       	<article>
+	         	<h1>Boston Cream</h1>
+	           	<p>Description, picture</p>
+	       	</article>
+	       	<article>
+	         	<h1>Burnt Sugar</h1>
+	           	<p>Description, picture</p>
+	       	</article>
+	       	<article>
+	         	<h1>Carrot Walnut</h1>
+	           	<p>Description, picture</p>
+	       	</article>
+	       	<article>
+	         	<h1>Cheesecake</h1>
+	           	<p>Description, picture</p>
+	       	</article>
+	       	<article>
+	         	<h1>Confetti Birthday Cake</h1>
+	           	<p>Description, picture</p>
+	       	</article>
+	       	<article>
+	         	<h1>Old Fashioned Coconut</h1>
+	           	<p>Description, picture</p>
+	       	</article>
+	       	<article>
+	         	<h1>Pink Champagne</h1>
+	           	<p>Description, picture</p>
+	       	</article>
+			</section>
+		</main>
+	</body>
+</html>
+
+
+
